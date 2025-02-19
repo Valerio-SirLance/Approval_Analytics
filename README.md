@@ -1,6 +1,9 @@
-# Approval Analytics 📊
+# [Approval Analytics 📊](https://approval-ananlytics-7mr9.onrender.com/)
 
 Approval Analytics is a web-based analytics system designed to track approval statuses of reports across multiple levels: Extensionist, Chairperson, and Dean. The system extracts data from Firebase, processes it using an ETL pipeline, and visualizes the insights through dynamic charts in a React frontend.
+
+🌐 **Live Demo**: [**Approval Analytics**](https://approval-ananlytics-7mr9.onrender.com/) 
+
 
 ## Features 🚀
 - **ETL Pipeline**: Extracts data from Firebase, transforms it, and loads it into MySQL.
@@ -47,6 +50,8 @@ The development of this project is made possible through:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)](https://render.com/)
+[![Clever Cloud](https://img.shields.io/badge/Clever%20Cloud-005AA7?style=flat&logo=clever-cloud&logoColor=white)](https://www.clever-cloud.com/)
 
 ## Setup Instructions ⚙️
 ### Prerequisites
