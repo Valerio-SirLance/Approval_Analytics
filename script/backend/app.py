@@ -15,10 +15,10 @@ user_names = {
 
 def get_db_connection():
     return mysql.connector.connect(
-        host='destination_db',  # Use the Docker service name
-        user='root',
-        password='root',
-        database='destination_db'
+        host='blro9vk7kdi2sshfpf4e-mysql.services.clever-cloud.com',  # Use the Docker service name
+        user='uz5sslxyty5dw3dv',
+        password='fGNGgqBfh4PxvQHVBKEY',
+        database='blro9vk7kdi2sshfpf4e'
     )
 
 @app.route('/')
