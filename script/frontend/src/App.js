@@ -10,7 +10,7 @@ const Analytics = () => {
   const [analyticsData, setAnalyticsData] = useState(null);
 
   useEffect(() => {
-    axios.get('https://approval-analytics.onrender.com/api/analytics')
+    axios.get('https://approval-ananlytics.onrender.com/api/analytics')
       .then((response) => {
         setAnalyticsData(response.data);
       })
